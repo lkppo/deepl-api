@@ -1,5 +1,5 @@
 {
-    "name": "lkppo/hipay-console-api",
+    "name": "lkppo/deepl-api",
     "type": "library",
     "minimum-stability": "dev",
     "description": "DeepL API client library for PHP",
