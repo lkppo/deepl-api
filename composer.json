@@ -4,11 +4,10 @@
     "minimum-stability": "dev",
     "description": "DeepL API client library for PHP",
     "keywords": [
-        "hipay",
-        "payment",
+        "DeepL",
+        "translation",
         "api",
-        "console",
-        "export"
+        "MT"
     ],
     "homepage": "https://github.com/lkppo/deepl-api",
     "readme": "README.md",
